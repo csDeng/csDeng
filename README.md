@@ -22,7 +22,9 @@
 
 <center><font color='red'>个人目标 -->  全栈工程师</font></center>
 
+【[学习笔记]([csDeng/study (github.com)](https://github.com/csDeng/study))】
 
+【[学习代码]([csDeng/study_codes: 个人学习代码 (github.com)](https://github.com/csDeng/study_codes))】
 
 ---
 
