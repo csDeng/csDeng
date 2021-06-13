@@ -34,7 +34,8 @@
 
 
 
-<center><font color='red'>个人目标 -->  全栈工程师</font></center>
+* 个人目标 -->  全栈工程师
+* 21年的奋斗目标，搭建一个自己的小博客，在纷扰的互联网时代，拥有一个属于自己的温馨小窝（网站备案审核中）
 
 【[学习笔记]([csDeng/study (github.com)](https://github.com/csDeng/study))】
 
