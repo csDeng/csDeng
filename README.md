@@ -8,7 +8,7 @@
 
 2. 掌握C/C++、Python、java等主流开发程序语言的基本使用
 
-3. 掌握Node.js依托Express、mongoose进行后端的简单开发
+3. 掌握Node.js依托Express、Koa、sequelize、redis、mongoose进行后端的简单开发
 
 4. 掌握Vue以及React等现代前端开发框架的基本用法
 
