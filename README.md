@@ -2,15 +2,40 @@
 
 
 
+<div 
+style="text-align: center; font-size: 60px; margin-top: 30px; color: #409EFF
+;  box-shadow: 10px 10px 5px #888888; border-radius: 10px; background:#F2F6FC">
+Welcome to csDeng's HomePage
+</div>
+
+
+
+
+<table display="border:none">
+    <tbody>
+    	<tr>
+        	<td>
+            	<img src='https://github-readme-stats.vercel.app/api?username=csDeng&
+hide=contribs,show_icons=true&theme=' title='stats' />
+            </td>
+            <td>
+                <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=csDeng&layout=compact' title='常用的技术栈' />
+            </td>
+        </tr>
+    </tbody>
+</table>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=csDeng&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 # 个人技能
 
-1. 熟练使用html、js、css、ES6构建网页界面
+1. 熟练使用H5、ES6、CSS3构建网页界面
 
 2. 掌握C/C++、Python、java等主流开发程序语言的基本使用
 
-3. 掌握Node.js依托Express、Koa、sequelize、redis、mongoose进行后端的简单开发
+3. 掌握Node.js依托Express、Koa、sequelize、redis、mongoose进行后端的快速开发
 
-4. 掌握Vue以及React等现代前端开发框架的基本用法
+4. 掌握Vue2的常用用法、阅读部分重要代码
 
 5. 掌握Bootstrap、ant design 、LinUI 等样式库的基本用法
 
