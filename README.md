@@ -8,22 +8,15 @@ style="text-align: center; font-size: 60px; margin-top: 30px; color: #409EFF
 Welcome to csDeng's HomePage
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=csDeng&
+hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
-<table display="border:none">
-    <tbody>
-    	<tr>
-        	<td>
-            	<img src='https://github-readme-stats.vercel.app/api?username=csDeng&
-hide=contribs,show_icons=true' title='stats' />
-            </td>
-            <td>
-                <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=csDeng&layout=compact' title='常用的技术栈' />
-            </td>
-        </tr>
-    </tbody>
-</table>
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=csDeng&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
