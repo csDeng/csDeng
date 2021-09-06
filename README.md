@@ -16,7 +16,7 @@ Welcome to csDeng's HomePage
     	<tr>
         	<td>
             	<img src='https://github-readme-stats.vercel.app/api?username=csDeng&
-hide=contribs,show_icons=true&theme=' title='stats' />
+hide=contribs,show_icons=true' title='stats' />
             </td>
             <td>
                 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=csDeng&layout=compact' title='常用的技术栈' />
