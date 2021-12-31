@@ -9,8 +9,8 @@ Welcome to csDeng's HomePage
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csDeng&layout=compact&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csDeng&layout=compact&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csDeng)](https://github.com/anuraghazra/github-readme-stats)
 ---
