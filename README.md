@@ -9,7 +9,7 @@ Welcome to csDeng's HomePage
 </div>
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csDeng&layout=compact&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csDeng&layout=compact&count_private=true&show_icons=true&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csDeng&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -59,7 +59,6 @@ style="text-align: center; font-size: 60px; margin-top: 30px; color: #409EFF
 ;  box-shadow: 10px 10px 5px #888888; border-radius: 10px; background:#F2F6FC">
 给时光以生命，给岁月以文明
 </div>
-
 
 
 
